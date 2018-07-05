@@ -1,3 +1,3 @@
 #Lights
 
-- Nodejs Rest API to retrieve colors for the lights paried with each other
+- Nodejs Rest API to retrieve colors for the lights paired with each other

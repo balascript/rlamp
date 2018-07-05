@@ -1,0 +1,29 @@
+{
+  "name": "r-lights",
+  "version": "0.0.1",
+  "description": "Nodejs Rest API to retrieve colors for the lights paired with each other",
+  "main": "server.js",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "watch-cli": "^0.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srbkrishnan/rlamp.git"
+  },
+  "keywords": [
+    "r-light",
+    "iot"
+  ],
+  "author": "srbkrishnan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srbkrishnan/rlamp/issues"
+  },
+  "homepage": "https://github.com/srbkrishnan/rlamp#readme"
+}
